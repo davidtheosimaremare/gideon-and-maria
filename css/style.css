@@ -1012,14 +1012,30 @@ button {
   padding: 0;
 }
 
+.story-item-date {
+  display: inline-block;
+  font-family: var(--font-poppins), sans-serif;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+  color: #fceecb;
+  background: rgba(0, 0, 0, 0.16);
+  padding: 3px 12px;
+  border-radius: var(--radius-pill);
+  margin-bottom: 7px;
+  border: 1px solid rgba(252, 238, 203, 0.28);
+}
+
 .story-chapter-title {
   font-family: var(--font-alice), var(--font-lora), serif;
   font-style: italic;
-  font-size: 23px;
+  font-size: 21px;
   font-weight: 500;
   color: #ffffff;
   margin-bottom: 8px;
   letter-spacing: 0.3px;
+  line-height: 1.35;
 }
 
 .story-chapter-text {
@@ -1289,6 +1305,10 @@ button {
 }
 
 .bank-logo-bca {
+  height: 34px;
+}
+
+.bank-logo-seabank {
   height: 34px;
 }
 

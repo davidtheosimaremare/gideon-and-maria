@@ -1,0 +1,15 @@
+{
+  "name": "gideon-and-maria-wedding",
+  "version": "1.0.0",
+  "description": "Undangan Pernikahan Digital Gideon & Maria",
+  "scripts": {
+    "dev": "npx -y serve .",
+    "start": "npx -y serve ."
+  },
+  "keywords": [
+    "wedding-invitation",
+    "gideon-maria"
+  ],
+  "author": "David Theo",
+  "license": "ISC"
+}

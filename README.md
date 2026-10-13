@@ -67,7 +67,7 @@ Diadaptasi dengan tema visual **Art Royal Garden** yang megah, elegan, dan diper
 - **Dual-Panel Desktop & Mobile Stream**: Panel cover sinematik kiri (layar lebar) dan alur interaktif mobile kanan (500px).
 - **Sampul Interaktif (Cover Modal)**: Personalisasi nama tamu otomatis via URL param (`?to=Nama+Tamu`).
 - **Hitung Mundur Akurat**: Menghitung mundur menuju 22 Oktober 2026 pukul 10:00 WIB.
-- **Tanda Kasih (Wedding Gift)**: Rekening BCA (Gideon Septa Nugroho), Mandiri (Maria Chrismonika), serta opsi kado fisik lengkap dengan tombol salin cepat dan notifikasi toast.
+- **Tanda Kasih (Wedding Gift)**: Rekening SeaBank (Gideon Septa Nugroho) serta opsi kado fisik lengkap dengan tombol salin cepat dan notifikasi toast.
 - **Buku Tamu & RSVP Digital**: Konfirmasi kehadiran dan ucapan selamat yang tersimpan di `localStorage`.
 - **Floating Audio Controller**: Pemutar musik tema Bridgerton dengan tombol play/pause dan auto-pause saat berpindah tab.
 - **Galeri Foto & Video**: Masonry grid dengan popup Lightbox dan sematan video highlight.
